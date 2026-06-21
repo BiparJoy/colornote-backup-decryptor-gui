@@ -115,6 +115,10 @@ is right but the format differs; if it's random noise the password is wrong.
 - [olejorgenb/ColorNote-backup-decryptor](https://github.com/olejorgenb/ColorNote-backup-decryptor) — reference decoder (MIT)
 - [fcoiffie/decode-ColorNote](https://github.com/fcoiffie/decode-ColorNote) — original reverse-engineering (MIT)
 
+Debugging of the "No notes recovered" bug, the resynchronising parser, and
+project packaging were done with help from **Claude** (Anthropic's AI
+assistant). See [CONTRIBUTORS.md](CONTRIBUTORS.md) for the full list.
+
 ## License
 
 [MIT](LICENSE) — see the LICENSE file, which preserves the original authors'
