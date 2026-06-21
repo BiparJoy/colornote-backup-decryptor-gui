@@ -1,0 +1,32 @@
+# ─────────────────────────────────────────────────────────────────────
+# PERSONAL DATA — never commit. These can contain your notes in plaintext
+# (passwords, bank details, etc.) or your encrypted backup. Keep them local.
+# ─────────────────────────────────────────────────────────────────────
+*.backup
+*.dat
+*.doc
+*.bak
+colornote_notes.*
+colornote-*.json
+colornote-*.csv
+decrypted_*.bin
+*_decrypted.*
+exports/
+
+# ───────────────────────────── Python ──────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+.pytest_cache/
+
+# ─────────────────────────── Editors / OS ──────────────────────────
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
